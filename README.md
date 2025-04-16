@@ -1,8 +1,4 @@
 # Atalhos-Windows
-Atalhos a teclas de acesso rápido
-
-
-"ATALHOS DO WINDOWS PELO TECLADO"
 
 
 CTRL + L = BLOQUEIA A TELA
