@@ -1,7 +1,7 @@
 # Atalhos-Windows
 
 
-CTRL + L = BLOQUEIA A TELA
+WINDOWS + L = BLOQUEIA A TELA
 
 WINDOWS + P = VARIAS TELAS
 
