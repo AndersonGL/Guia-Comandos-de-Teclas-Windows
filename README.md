@@ -68,9 +68,3 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 
 ---
 
-## ⚛️ Bônus: Snippet para React
-
-No VS Code, dentro de `App.jsx`, digite:
-
-```jsx
-rafce
