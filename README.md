@@ -42,7 +42,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Win + V** | Histórico da Área de Transferência (precisa estar habilitado) |
 | **Shift + Alt + ↑ / ↓** | Duplicar linha no editor de código |
 | **Ctrl + K**, **Ctrl + C / U** | Comentar / descomentar bloco (VS Code) |
-
+| **Ctrl + L**, | Limpa o Terminal do (VS Code) |
 ---
 
 ## 🛠️ Manutenção & Solucionadores
