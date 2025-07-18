@@ -10,9 +10,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 
 | Atalho | Ação |
 | ------ | ---- |
-
-
-| **Win + SHIFT + S ** | Printa a tela no Windows 10 |
+| **Win + SHIFT + S ** | Printa a tela no Windows 10|
 | **Win + L** | Bloqueia a sessão atual |
 | **Win + P** | Seleciona modo de projeção (telas múltiplas) |
 | **Win + E** | Abre o Explorador de Arquivos |
