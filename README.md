@@ -67,7 +67,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Ctrl + T / F4** | Abrir nova guia / fechar guia |
 | **Ctrl + P** | Imprimir página |
 | **word.new** | Abre word online instantaneamente |
- **Ctrl + Shift+ Windows + Alt** | Para abrir o windows online também.
+ **Ctrl + Shift+ Windows + Alt** | Para abrir o office 365 online também.
 
 
 ---
