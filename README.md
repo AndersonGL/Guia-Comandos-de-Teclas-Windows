@@ -1,4 +1,4 @@
-# 📑 Atalhos Windows — Guia Profissional
+# 📑 Guia Comandos de Teclas Windows
 
 Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que aceleram fluxos de trabalho, melhoram a navegação e facilitam tarefas de manutenção.
 
