@@ -19,6 +19,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Win + K** | Conectar a dispositivos sem fio (Miracast, áudio, etc.) |
 | **Win + I** | Configurações do Windows |
 | **Ctrl + Shift + Esc** | Gerenciador de Tarefas |
+| **Tecla Windows + Pause/Break** | Para Acessar Sobre Computador |
 
 ---
 
