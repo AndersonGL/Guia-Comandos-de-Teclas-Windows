@@ -32,6 +32,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Win + + / –** | Lupa (zoom in / zoom out) |
 | **F3** ou **Ctrl + F** | Pesquisa no aplicativo atual |
 | **Win + .** (ponto) | Emoji & símbolos |
+| **Win + D**  | Minimiza todas as teclas abertas |
 
 ---
 
