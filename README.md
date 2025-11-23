@@ -47,7 +47,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Shift + Alt + ↑ / ↓** | Duplicar linha no editor de código |
 | **Ctrl + K**, **Ctrl + C / U** | Comentar / descomentar bloco (VS Code) |
 | **Ctrl + L** ou CLS / Clear | Limpa o Terminal do (VS Code) |
-| **Ctrl + Shift + I | Abre o DevTolls ou F12|
+| **Ctrl + Shift + I** | Abre o DevTolls ou F12|
 ---
 
 ## 🛠️ Manutenção & Solucionadores
