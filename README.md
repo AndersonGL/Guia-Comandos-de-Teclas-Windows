@@ -20,7 +20,7 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Win + I** | Configurações do Windows |
 | **Ctrl + Shift + Esc** | Gerenciador de Tarefas |
 | **Tecla Windows + Pause/Break** | Para Acessar Sobre Computador |
-| **Windows + R -> Digite -> netplwiz ** | Altera o nome do usuario do Computador |
+| **Windows + R -> Digite -> netplwiz** | Altera o nome do usuario do Computador |
 
 ---
 
