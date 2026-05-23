@@ -46,8 +46,8 @@ Uma coleção curada de atalhos essenciais do Windows e comandos adicionais que 
 | **Ctrl + Z** | Desfazer |
 | **Win + V** | Histórico da Área de Transferência (precisa estar habilitado) |
 | **Shift + Alt + ↑ / ↓** | Duplicar linha no editor de código |
-| **Ctrl + K**, **Ctrl + C** | Comentar o bloco (VS Code) |
-| **Ctrl + K**, **Ctrl + U** | Decomentar o bloco (VS Code) |
+| **Ctrl + K** + **Ctrl + C** | Comentar o bloco (VS Code) |
+| **Ctrl + K** + **Ctrl + U** | Decomentar o bloco (VS Code) |
 | **Ctrl + L** ou CLS / Clear | Limpa o Terminal do (VS Code) |
 | **Ctrl + Shift + I** | Abre o DevTolls ou F12|
 ---
